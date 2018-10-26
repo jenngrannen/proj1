@@ -14,6 +14,7 @@ Siddliey
 I passed in the helper to display the trainer with the id of the trainer to be displayed (aka the trainer of the pokemon being damaged).
 
 # Question 5: Explain how putting this line "flash[:error] = @pokemon.errors.full_messages.to_sentence" shows error messages on your form.
+The flash contains errors and this line displays them in the context of the pokemon.
 
 # Give us feedback on the project and decal below!
 
